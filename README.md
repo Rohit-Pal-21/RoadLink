@@ -25,7 +25,8 @@ RoadLink is a django based vehicle management system
 - Clone the repository 
 
 ```
-git clone https://github.com/aswanthkoleri/RoadLink.git
+git clone
+https://github.com/Rohit-Pal-21/RoadLink
 ```
 - Install virtual environment
 
